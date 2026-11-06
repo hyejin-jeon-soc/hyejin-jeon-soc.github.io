@@ -20,7 +20,7 @@ Education
 
 Peer-Reviewed Publications
 ======
-* Moon, Minyoung, and **Hyejin Jeon**. 2025. "A Decade of Title IX Regulation Changes and University Responses from 2013 to 2023." *Journal of School Violence*, 1–15. [doi.org/10.1080/15388220.2025.2478051](https://doi.org/10.1080/15388220.2025.2478051)
+* Moon, Minyoung, and **Hyejin Jeon**. 2025. "A Decade of Title IX Regulation Changes and University Responses from 2013 to 2023." *Journal of School Violence* 24(3): 360–374. [doi.org/10.1080/15388220.2025.2478051](https://doi.org/10.1080/15388220.2025.2478051)
 * **Jeon, Hyejin**. 2016. "Micro Factors of the Career Disruption: Logit Analysis of Company Welfare and Spouse Effects as Determinants of Resignation." *Korea Journal of Population Studies* 39(3): 107–137.
 
 Other Publications and Reports
@@ -47,11 +47,16 @@ Conference Presentations
 * Jeon, Hyejin, and Jina Lee. "Framing the Victim: Understanding the Portrayal of Sex-Based Crimes in South Korean News." American Sociological Association Annual Meeting, Media Section, 2023.
 * Jeon, Hyejin, and Minyoung Ahn. "From Survival to Lifestyle: Examining How Having Multiple Jobs Reshapes Income Distributions Across Socioeconomic Levels." Population Association of America Annual Meeting, Earnings Inequality, Jobs, and Unions Section, 2025.
 
+Media Mentions
+======
+* Quoted in POLITICO Magazine (November 2024) on the global diffusion of the 4B movement and its implications for feminist protest culture. [Read the article](https://www.politico.com/news/magazine/2024/11/16/4b-movement-america-political-protest-00189314)
+
 Teaching Experience
 ======
 * Instructor, Sociology 201: Introductory Statistics for Sociology (Summer 2024, Summer 2025)
 * Instructor, Sociology 202: Introduction to Research Methods in Sociology (Summer 2025)
 * Teaching Assistant, Sociology 100: Introduction to Sociology (Fall 2023)
+* Teaching Assistant, Sociology 225: Women's Jobs, Men's Jobs: How and Why Do They Differ?
 * Teaching Assistant, Sociology 224: Why Are We Still Talking About Race (Spring 2022)
 * Teaching Assistant, Sociology 203: Sociological Theory (Fall 2021)
 * Teaching Assistant, Sociology 230: Sociological Social Psychology (Spring 2021)
