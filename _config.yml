@@ -82,11 +82,13 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'
-  workingpapers:
-    title: 'Working Papers and Manuscripts in Preparation'
+    title: 'Peer Reviewed Publications'
   reports:
-    title: 'Reports'
+    title: 'Other Publications and Reports'
+  underrevision:
+    title: 'Manuscript Under Revision'
+  workingpapers:
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
