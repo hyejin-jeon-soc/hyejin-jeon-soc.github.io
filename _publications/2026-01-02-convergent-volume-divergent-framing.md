@@ -1,0 +1,10 @@
+---
+title: "Convergent Volume, Divergent Framing Across Political Ideology: Digital Feminist Mobilization and Sexual Violence Reporting in Korean News, 2000–2025"
+collection: publications
+category: workingpapers
+permalink: /publication/convergent-volume-divergent-framing
+date: 2026-01-02
+venue: 'Manuscript in progress'
+citation: 'Jeon, Hyejin. "Convergent Volume, Divergent Framing Across Political Ideology: Digital Feminist Mobilization and Sexual Violence Reporting in Korean News, 2000–2025." Manuscript in progress.'
+---
+Manuscript in progress.
