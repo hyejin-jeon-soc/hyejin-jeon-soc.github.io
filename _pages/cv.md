@@ -56,7 +56,7 @@ Teaching Experience
 * Instructor, Sociology 201: Introductory Statistics for Sociology (Summer 2024, Summer 2025)
 * Instructor, Sociology 202: Introduction to Research Methods in Sociology (Summer 2025)
 * Teaching Assistant, Sociology 100: Introduction to Sociology (Fall 2023)
-* Teaching Assistant, Sociology 225: Women's Jobs, Men's Jobs: How and Why Do They Differ?
+* Teaching Assistant, Sociology 225: Women's Jobs, Men's Jobs: How and Why Do They Differ? (Fall 2018)
 * Teaching Assistant, Sociology 224: Why Are We Still Talking About Race (Spring 2022)
 * Teaching Assistant, Sociology 203: Sociological Theory (Fall 2021)
 * Teaching Assistant, Sociology 230: Sociological Social Psychology (Spring 2021)
