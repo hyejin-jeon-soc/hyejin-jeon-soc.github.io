@@ -8,3 +8,5 @@ date: 2023-08-01
 location: "Philadelphia, Pennsylvania"
 ---
 With Jina Lee. Presented at the American Sociological Association Annual Meeting, 2023.
+
+[View the slides](https://drive.google.com/file/d/1qhFBAID3ddgGJ3-hYyLyPUxRSWQVPa9P/view?usp=sharing)

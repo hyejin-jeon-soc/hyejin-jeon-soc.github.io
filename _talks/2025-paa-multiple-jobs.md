@@ -8,3 +8,5 @@ date: 2025-04-01
 location: "Washington, DC"
 ---
 With Minyoung Ahn. Presented at the Population Association of America Annual Meeting, 2025.
+
+[View the slides](https://drive.google.com/file/d/1YQkC9XEywuyEI5nKZicmztIbB46FLtuE/view?usp=sharing)
