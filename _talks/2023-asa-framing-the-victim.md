@@ -1,0 +1,10 @@
+---
+title: "Framing the Victim: Understanding the Portrayal of Sex-Based Crimes in South Korean News"
+collection: talks
+type: "Conference presentation"
+permalink: /talks/2023-asa-framing-the-victim
+venue: "American Sociological Association Annual Meeting, Media Section"
+date: 2023-08-01
+location: "Philadelphia, Pennsylvania"
+---
+With Jina Lee. Presented at the American Sociological Association Annual Meeting, 2023.
