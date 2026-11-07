@@ -4,7 +4,6 @@ collection: publications
 category: workingpapers
 permalink: /publication/ivory-tower-mainstream-battleground
 date: 2026-01-03
-venue: 'Manuscript in progress'
 citation: 'Jeon, Hyejin. "From Ivory Tower to Mainstream Battleground: The Creation and Transformation of Feminism Discourse in Media." Manuscript in progress.'
 ---
 Manuscript in progress.
