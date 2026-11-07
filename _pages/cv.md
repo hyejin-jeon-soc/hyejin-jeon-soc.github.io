@@ -16,7 +16,6 @@ Education
 * Ph.D. Candidate in Sociology, University of Maryland, College Park (expected May 2027)
   * Specialization in Social Inequality and Mobility (02/2021)
   * Research Interests: Social Change; Gender; Social Movements; Media and Digital Discourse
-* M.A., Sociology, University of Maryland, College Park, May 2020 (GPA 3.890/4.00)
 
 Peer-Reviewed Publications
 ======
