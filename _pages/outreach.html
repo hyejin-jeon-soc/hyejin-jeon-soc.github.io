@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Outreach"
+permalink: /outreach/
+author_profile: true
+---
+
+<p>This section features conference presentations and media appearances that showcase the range of my research dissemination, both within and beyond academic communities.</p>
+
+<h2>Media Mentions</h2>
+
+<ul>
+  <li>Quoted in <a href="https://www.politico.com/news/magazine/2024/11/16/4b-movement-america-political-protest-00189314">POLITICO Magazine</a> (November 2024) on the global diffusion of the 4B movement and its implications for feminist protest culture.</li>
+</ul>
+
+<h2>Conference Presentations</h2>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
