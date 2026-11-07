@@ -27,9 +27,12 @@ Other Publications and Reports
 ======
 * Chang, Mi-Hye, Cheyon Tong, Jiyoun Jeoung, Ju-Ho Lee, and **Hyejin Jeon**. 2016. "Policy Considerations for Strengthening the Safety of Women Depending on the Life Cycle (I): With Emphasis on the Safety of Women in the Home and Living Spaces." KWDI Annual Report. [doi.org/10.23000/TRKO201700005754](https://doi.org/10.23000/TRKO201700005754)
 
-Working Papers and Manuscripts in Preparation
+Manuscript Under Revision
 ======
 * **Jeon, Hyejin**, and Minyoung Moon. "Rebalancing Feminist Meanings: Non-Marriage Discourse in a Korean Women's Online Community." *New Media & Society*, revise and resubmit.
+
+Working Papers
+======
 * **Jeon, Hyejin**. "Convergent Volume, Divergent Framing Across Political Ideology: Digital Feminist Mobilization and Sexual Violence Reporting in Korean News, 2000–2025." In progress.
 * **Jeon, Hyejin**. "From Ivory Tower to Mainstream Battleground: The Creation and Transformation of Feminism Discourse in Media." In progress.
 * **Jeon, Hyejin**, and Sarina Li. "The Human and Machine Gaze: An Analysis of Gendered Imagery on Social Media, Evaluating the Congruence and Divergence Between Human and Computer Coding of U.S. Military Instagram Content." In progress.
