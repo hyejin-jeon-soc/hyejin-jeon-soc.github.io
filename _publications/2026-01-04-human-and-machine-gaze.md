@@ -4,5 +4,6 @@ collection: publications
 category: workingpapers
 permalink: /publication/human-and-machine-gaze
 date: 2026-01-04
+excerpt: "<strong>Manuscript in progress.</strong>"
 ---
 Manuscript in progress.

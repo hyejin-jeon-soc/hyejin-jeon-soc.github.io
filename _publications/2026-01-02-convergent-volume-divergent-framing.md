@@ -4,5 +4,6 @@ collection: publications
 category: workingpapers
 permalink: /publication/convergent-volume-divergent-framing
 date: 2026-01-02
+excerpt: "<strong>Manuscript in progress.</strong>"
 ---
 Manuscript in progress.
